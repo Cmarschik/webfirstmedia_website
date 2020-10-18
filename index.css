@@ -1,0 +1,10 @@
+  
+/*
+ This should give us a basic header image on our website once we add it to "background-image" 
+*/
+header {
+    padding: 100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-top: solid 5px white;
+}
